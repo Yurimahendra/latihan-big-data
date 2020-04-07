@@ -9,4 +9,4 @@ if indo >= 0 and indo <=100 and ipa >= 0 and ipa <= 100 and mtk >= 0 and mtk <=1
         hasil = 'tidak lulus'
     print('status : ', hasil)
 else:
-    print('nilai tidak valid')
+    print('nilai tidak validd')
